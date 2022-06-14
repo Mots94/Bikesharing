@@ -14,6 +14,8 @@ Based on this visual, it appears that most bike riders start their trips in the 
 
 Similarly, based on this visual the most common ending points appear to also be in the Southern half of Manhattan.  It just so happens that the three most common end points are the same as the three most common starting points in the first visual.  Major train stations, parks, and schools appear to be the most popular starting and ending locations.
 
+---
+
 ![TRIP_TIME](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_Trips_1.PNG)
 
 This visual displays total trip time in minutes on the x-axis and the number of bikes used for that particular trip time on the y-axis.  The most common trip time was five minutes, and for trips greater than six minutes the number of bikes rented begins to decrease.  At the 14 minute duration point, the number of bikes rented is half that at the five minute duration point.  Based on this graph, it appears that a majority of users rent bikes to travel to a destination within about 3-12 minutes from their current location.
@@ -21,5 +23,7 @@ This visual displays total trip time in minutes on the x-axis and the number of 
 ![TRIP_TIME2](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_Trips_2.PNG)
 
 In addition, this visualization was broken down by gender of users.  It appears that both male and female users follow a similar pattern.  Between about 1-6 minutes the number of bikes rented increases, and drops off after the 6 minute mark.  The decrease in bikes used by females is more gradual than for males, and it also appears that there were more bikes rented out by males than females.  Other visualization created may help to explain this disparity.
+
+---
 
 ![HMAP1](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_HeatMap_CustomerType.PNG)
