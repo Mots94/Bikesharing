@@ -12,7 +12,7 @@ Based on this visual, it appears that most bike riders start their trips in the 
 ![MAP2](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_Map_2.PNG)
 **Viz 2: Ending Points**
 
-Similarly, based on this visual the most common ending points appear to also be in the Southern half of Manhattan.  It just so happens that the three most common end points are the same as the three most common starting points in the first visual.  Major train stations, parks, and schools appear to be the most popular starting and ending locations.
+Similarly, the most common ending points appear to also be in the Southern half of Manhattan.  It just so happens that the three most common end points are the same as the three most common starting points in the first visual.  Major train stations, parks, and schools appear to be the most popular starting and ending locations.
 
 ---
 
