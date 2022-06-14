@@ -4,8 +4,16 @@
 In a dense city environment, it is often the case that inhabitants can easily travel to their destinations by either walking or taking public transportation.  However, there may be cases where walking to a destination would take a significant amount of time, yet the destination is not quite far enough to justify waiting for a train or bus.  For this reason, bike sharing has recently become a popular method of traveling in a city environment.  Most major cities have some form of bike sharing program that allows users to rent a bike for the desired amount of time, which determines what a user is charged for use.  For this project, a dataset collected from the Citi Bike program in New York City was used to create insightful visualizations related to bike sharing.  In doing so, these visualizaions were used to determine if a similar program could be instituted in Des Moines, Iowa.
 
 ## Results
-The following image displays a map of the most and least common bike share starting points in Manhattan:
+The following images display maps of the most and least common bike share starting and ending points in Manhattan:
 
 ![MAP1](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_Map_1.PNG)
 
 Based on this visual, it appears that most bike riders start their trips in the Southern half of Manhattan.  The most common starting location is located at Grand Central Terminal.  The next most common starting location is at Union Square Park.  The third most common starting point is near multiple schools, parks, and the Hudson River.
+
+![MAP2](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_Map_2.PNG)
+
+Similarly, based on this visual the most common ending points appear to also be in the Southern half of Manhattan.  It just so happens that the three most common end points are the same as the three most common starting points in the first visual.  Major train stations, parks, and schools appear to be the most popular starting and ending locations.
+
+![TRIP_TIME](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_Trips_1.PNG)
+
+This visual displays total trip time in minutes on the x-axis and the number of bikes used for that particular trip time on the y-axis.  The most common trip time was five minutes.
