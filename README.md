@@ -16,4 +16,4 @@ Similarly, based on this visual the most common ending points appear to also be 
 
 ![TRIP_TIME](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_Trips_1.PNG)
 
-This visual displays total trip time in minutes on the x-axis and the number of bikes used for that particular trip time on the y-axis.  The most common trip time was five minutes.
+This visual displays total trip time in minutes on the x-axis and the number of bikes used for that particular trip time on the y-axis.  The most common trip time was five minutes, and for trips greater than six minutes the number of bikes rented begins to decrease.  At the 14 minute duration point, the number of bikes rented is half that at the five minute duration point.  Based on this graph, it appears that a majority of users rent bikes to travel to a destination within about 3-12 minutes from their current location.
