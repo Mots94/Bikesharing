@@ -8,4 +8,4 @@ The following image displays a map of the most and least common bike share start
 
 ![MAP1](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_Map_1.PNG)
 
-Based on this visual, it appears that most bike riders start their trips in the Southern half of Manhattan.  The most common location starting location is located at Grand Central Terminal.  The next most common starting location is at Union Square Park, and the third most common starting point is near multiple schools, parks, and the Hudson River.
+Based on this visual, it appears that most bike riders start their trips in the Southern half of Manhattan.  The most common starting location is located at Grand Central Terminal.  The next most common starting location is at Union Square Park.  The third most common starting point is near multiple schools, parks, and the Hudson River.
