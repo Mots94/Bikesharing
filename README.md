@@ -32,4 +32,8 @@ Shown above is a heatmap, with darker color indicating a higher number of trips 
 
 ![HMAP2](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_HeatMap_StartHour.PNG)
 
+This heatmap displays the number of trips taken using the same coloring method as the previous visual.  This map is broken down by day of the week as well as the start time hour.  It appears that the highest activity times throughout the week are between 6 AM and 9 AM, as well as between 4 PM and 8 PM.  This makes sense, as these are the most common commuting times throughout the work week.  Additionally, on Saturdays and Sundays bike rentals are consistenly higher throughout the day, starting at about 9 AM and ending at 8 PM.  Since most individuals do not work on the weekeds, it would stand to reason that bike trips are consistently high all day because indiviuals have more free time to do what they want.
 
+![HMAP3](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_HeatMap_StartHour_Gender.PNG)
+
+Finally, this heatmap displays the same information as the previous, but also breaks down the number of trips by gender.  As was seen in the previous visual related to checkout time, there are similar patterns between males and females as far as the hours that most bikes are checked out.  Throughout the week, men and women more commonly rent bikes during the commuting hours mentioned above.  Over the weekend, men and women both rent more bikes between the hours of 9 AM to 8 PM compared to other hours of the day.  The only real difference is that there are more bike rentals overall by males than females.
