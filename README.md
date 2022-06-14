@@ -4,9 +4,8 @@
 In a dense city environment, it is often the case that inhabitants can easily travel to their destinations by either walking or taking public transportation.  However, there may be cases where walking to a destination would take a significant amount of time, yet the destination is not quite far enough to justify waiting for a train or bus.  For this reason, bike sharing has recently become a popular method of traveling in a city environment.  Most major cities have some form of bike sharing program that allows users to rent a bike for the desired amount of time, which determines what a user is charged for use.  For this project, a dataset collected from the Citi Bike program in New York City was used to create insightful visualizations related to bike sharing.  In doing so, these visualizaions were used to determine if a similar program could be instituted in Des Moines, Iowa.
 
 ## Results
-The following images display maps of the most and least common bike share starting and ending points in Manhattan:
-
 ![MAP1](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_Map_1.PNG)
+Viz 1: Starting Points
 
 Based on this visual, it appears that most bike riders start their trips in the Southern half of Manhattan.  The most common starting location is located at Grand Central Terminal.  The next most common starting location is at Union Square Park.  The third most common starting point is near multiple schools, parks, and the Hudson River.
 
@@ -36,4 +35,4 @@ This heatmap displays the number of trips taken using the same coloring method a
 
 ![HMAP3](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_HeatMap_StartHour_Gender.PNG)
 
-Finally, this heatmap displays the same information as the previous, but also breaks down the number of trips by gender.  As was seen in the previous visual related to checkout time, there are similar patterns between males and females as far as the hours that most bikes are checked out.  Throughout the week, men and women more commonly rent bikes during the commuting hours mentioned above.  Over the weekend, men and women both rent more bikes between the hours of 9 AM to 8 PM compared to other hours of the day.  The only real difference is that there are more bike rentals overall by males than females.
+Finally, this heatmap displays the same information as the previous, but also breaks down the number of trips by gender.  As was seen in visual number four, there are similar patterns between males and females as far as the hours that most bikes are checked out.  Throughout the week, men and women more commonly rent bikes during the commuting hours mentioned above.  Over the weekend, men and women both rent more bikes between the hours of 9 AM to 8 PM compared to other hours of the day.  The only real difference is that there are more bike rentals overall by males than females.
