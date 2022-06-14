@@ -27,3 +27,9 @@ In addition, this visualization was broken down by gender of users.  It appears 
 ---
 
 ![HMAP1](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_HeatMap_CustomerType.PNG)
+
+Shown above is a heatmap, with darker color indicating a higher number of trips taken.  Across the board, bike sharing subscribers take many more trips than customers that are not subscribers.  Taken together with the previous visual, the subscriber base for this service may simply be majority males, which would explain the large number of trips taken by males.  Despite this finding, subscribers take more trips than non-subscribers throughout the week between both males and females.
+
+![HMAP2](https://github.com/Mots94/Bikesharing/blob/main/Images/Tableau_HeatMap_StartHour.PNG)
+
+
